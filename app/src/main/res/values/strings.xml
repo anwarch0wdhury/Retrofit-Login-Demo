@@ -1,0 +1,26 @@
+<resources>
+
+    /**
+    * Anwar Chowdhury
+    * Date:5/2/2020
+    */
+
+    <string name="app_name">Login DEMO</string>
+    <string name="s_pref_file">sh_preference_file</string>
+    <string name="s_pref_login_status">sh_preference_login_status</string>
+    <string name="s_pref_name">sh_preference_name</string>
+    <string name="s_pref_id">sh_preference_id</string>
+    <string name="s_pref_email">sh_preference_email</string>
+    <string name="s_pref_mobile">sh_preference_mobile</string>
+    <string name="s_pref_address">sh_preference_address</string>
+    <string name="s_pref_maplink">sh_preference_maplink</string>
+    <string name="s_pref_city">sh_preference_city</string>
+    <string name="s_pref_country">sh_preference_country</string>
+    <string name="s_pref_zip">sh_preference_zip</string>
+    <string name="s_pref_date">sh_preference_date</string>
+    <string name="s_pref_type">sh_preference_type</string>
+    <string name="s_pref_token">sh_preference_token</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
