@@ -1,3 +1,2 @@
 # Retrofit-Login-Demo
-
-![](logindemo.gif)
+AndroidSample (Java + Retrofit)
